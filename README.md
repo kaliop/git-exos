@@ -26,7 +26,7 @@ Ce repository est conçu pour être utilisé dans le cadre d'exercices Git. L'hi
 5. Responsivité
 6. Navigation
 7. Footer et contact
-
+8. une nouvelle feature8. une nouvelle feature8. une nouvelle feature8. une nouvelle feature8. une nouvelle feature8. une nouvelle feature8. une nouvelle feature8. une nouvelle feature
 ## Ouvrir le site
 
 Ouvrez simplement `index.html` dans votre navigateur web.
